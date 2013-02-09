@@ -98,8 +98,8 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://pshawscorner.com/wp-content/uploads/2012/08/marina-and-the-strawberries-marina-and-the-diamonds-23800305-750-500.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
+.ie {background: url(http://pshawscorner.com/wp-content/uploads/2012/08/marina-and-the-strawberries-marina-and-the-diamonds-23800305-750-500.png) repeat; background-size: contain;}
+.fx {background: url(http://images5.fanpop.com/image/photos/31200000/Marina-and-the-Diamonds-Lyrics-Fan-Art-marina-and-the-diamonds-31211876-500-648.jpg) repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
